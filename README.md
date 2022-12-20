@@ -1,3 +1,4 @@
 # Volunteer Reruitment Project
-
-This is Boyong's respository for a data science project guided by Professor Kyle Shannon. I am in a group of 4 with Yepeng Li, Chase Stoddard, and Jiesen Zhang.
+Welcome to Boyong's repository. <br> <br>
+**trip_classification.ipynb** contains my code for classifying all trips in the dataset.<br> <br>
+**assignments_classified.csv** contains all the assignment data with the classification of trips.<br> <br>
